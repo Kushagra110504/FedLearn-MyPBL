@@ -88,6 +88,7 @@ FL_IDS_CICIDS/
 │
 └── app.py
 
+
 ⚙️ Installation
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/FL_IDS_CICIDS.git
@@ -241,3 +242,4 @@ Bullet points added
 Structured project tree
 
 Professional GitHub style
+
