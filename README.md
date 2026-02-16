@@ -225,21 +225,9 @@ Real-time traffic streaming support
 
 👨‍💻 Author
 
-Kushagra Singh
-B.Tech – AI & ML
+Mentor- Dr. Neha Janu
+Kushagra Singh-2427030078
+B.Tech – CSE
 Federated Learning Research Project
 
-🎯 What Was Fixed
-
-Proper markdown formatting
-
-Clear headings
-
-Code blocks corrected
-
-Bullet points added
-
-Structured project tree
-
-Professional GitHub style
 
